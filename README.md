@@ -1,1 +1,1 @@
-# nestjs-app
+# nest-lite-inventory
